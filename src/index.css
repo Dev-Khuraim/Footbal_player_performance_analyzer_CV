@@ -1,0 +1,22 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  overflow: scroll;
+  margin: 0;
+
+  /* height: ; */
+  /* background-image: url('../src/assets/Designer\ \(2\).jpeg');
+   */
+   background-image: url('https://img.freepik.com/free-photo/close-up-athlete-playing-soccer_23-2150845600.jpg?t=st=1727298565~exp=1727302165~hmac=c1facb7df0cf031f377a3a0b16a9a831a76638548e27296492371f8bca40c3ed&w=1060');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  place-items: center;
+  
+}
+
+
+
